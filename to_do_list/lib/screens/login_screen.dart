@@ -49,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           CircleAvatar(
                             radius: 80,
                             backgroundImage: NetworkImage(
-                                "https://i.ibb.co/fXjRwdv/foto.png"),
+                                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fblank-profile-picture-mystery-man-973460%2F&psig=AOvVaw0kDEEkQJpAc0qmgvFYd3tR&ust=1717174599934000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLjc54LstYYDFQAAAAAdAAAAABAE"),
                           ),
                         ],
                       ),
